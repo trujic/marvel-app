@@ -1,0 +1,22 @@
+.comic-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.comic {
+
+  width: 400px;
+}
+
+.comic h2 {
+
+}
+
+.comic img {
+  width: 400px;
+  height: 500px;
+  object-fit: fill;
+}
